@@ -28,3 +28,4 @@
 - [OUs criadas no control tower](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/how-does-aws-control-tower-establish-your-multi-account-environment.html#establish-your-multi-account-environment-with-aws-control-tower)
 - [Catalogo de controles do control tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
 - [Tipos de politica disponiveis em Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies.html?icmpid=docs_orgs_console)
+- [Discussao sobre formas de organizar multiplas contas, OUs sugeridas, entre outros, ignorando os serviços que fariam isso.](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
