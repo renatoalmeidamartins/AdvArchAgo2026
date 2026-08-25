@@ -25,3 +25,5 @@
 - [Politicas de roteamento no route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [Acesso cross-account](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-cross-account-resource-access.html)
 - [Efeitos de SCP, atencao pois não atua na management account](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html#scp-effects-on-permissions)
+- [OUs criadas no control tower](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/how-does-aws-control-tower-establish-your-multi-account-environment.html#establish-your-multi-account-environment-with-aws-control-tower)
+- [Catalogo de controles do control tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
