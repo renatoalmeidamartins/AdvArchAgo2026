@@ -29,3 +29,5 @@
 - [Catalogo de controles do control tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
 - [Tipos de politica disponiveis em Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies.html?icmpid=docs_orgs_console)
 - [Discussao sobre formas de organizar multiplas contas, OUs sugeridas, entre outros, ignorando os serviços que fariam isso.](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
+- [VPNs agora suportam tuneis de 5 Gbps](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/)
+- [Accelerated site-to-sive VPN, se apoiam em Global accelerator](https://docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.html)
