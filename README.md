@@ -4,4 +4,4 @@
 ## Material e laboratórios
 - [Skillbuilder, plataforma com inumeros labs e cursos](https://skillbuilder.aws/)
 - [Assinaturas do skill builder](https://skillbuilder.aws/subscriptions)
-= [Online Course supplement](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement)
+- [Online Course supplement](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement)
