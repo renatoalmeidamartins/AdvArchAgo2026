@@ -24,3 +24,4 @@
   - [Conversao de aplicacao para uso de DAX no Dynamo, quase zero mudanças](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.client.modify-your-app.html)
 - [Politicas de roteamento no route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [Acesso cross-account](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-cross-account-resource-access.html)
+- [Efeitos de SCP, atencao pois não atua na management account](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html#scp-effects-on-permissions)
