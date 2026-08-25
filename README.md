@@ -23,3 +23,4 @@
       - [Comparing node-based Valkey, Memcached, and Redis OSS clusters](https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/SelectEngine.html)
   - [Conversao de aplicacao para uso de DAX no Dynamo, quase zero mudanças](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.client.modify-your-app.html)
 - [Politicas de roteamento no route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
+- [Acesso cross-account](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-cross-account-resource-access.html)
