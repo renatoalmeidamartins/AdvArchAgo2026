@@ -27,3 +27,4 @@
 - [Efeitos de SCP, atencao pois não atua na management account](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html#scp-effects-on-permissions)
 - [OUs criadas no control tower](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/how-does-aws-control-tower-establish-your-multi-account-environment.html#establish-your-multi-account-environment-with-aws-control-tower)
 - [Catalogo de controles do control tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
+- [Tipos de politica disponiveis em Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies.html?icmpid=docs_orgs_console)
