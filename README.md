@@ -21,3 +21,4 @@
       - [Year One of Valkey: Open-Source Innovations and ElastiCache version 8.1 for Valkey](https://aws.amazon.com/blogs/database/year-one-of-valkey-open-source-innovations-and-elasticache-version-8-1-for-valkey/)
       - [Valkey turns two](https://aws.amazon.com/blogs/database/valkey-turns-two/)
       - [Comparing node-based Valkey, Memcached, and Redis OSS clusters](https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/SelectEngine.html)
+  - [Conversao de aplicacao para uso de DAX no Dynamo, quase zero mudanças](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.client.modify-your-app.html)
