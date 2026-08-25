@@ -16,3 +16,8 @@
     - [Introducing AWS Gateway Load Balancer – Easy Deployment, Scalability, and High Availability for Partner Appliances](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
 - Caching
   - [Introducing flat-rate pricing plans with no overages](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/)
+    - Valkey
+      - [Why AWS Supports Valkey](https://aws.amazon.com/blogs/opensource/why-aws-supports-valkey/)
+      - [Year One of Valkey: Open-Source Innovations and ElastiCache version 8.1 for Valkey](https://aws.amazon.com/blogs/database/year-one-of-valkey-open-source-innovations-and-elasticache-version-8-1-for-valkey/)
+      - [Valkey turns two](https://aws.amazon.com/blogs/database/valkey-turns-two/)
+      - [Comparing node-based Valkey, Memcached, and Redis OSS clusters](https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/SelectEngine.html)
