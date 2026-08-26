@@ -52,3 +52,4 @@
 - [Tamanhos de fargate profile](https://docs.aws.amazon.com/eks/latest/userguide/fargate-pod-configuration.html)
 - Hoje, Kubernetes é o padrão para orquestrar containers. Este artigo, de 2020, analisa diversas opcoes, incluindo Kubernetes: [A comprehensive feature comparison study of opensource container orchestration frameworks](https://arxiv.org/pdf/2002.02806)
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Understand the Kubernetes version lifecycle on EKS](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
