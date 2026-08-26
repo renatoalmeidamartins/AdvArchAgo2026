@@ -60,3 +60,4 @@
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)
 - [Publicações DORA, entre outras, State of DevOps report](https://dora.dev/research/publications/)
+- [The Future of AWS CodeCommit](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/), conta a história do CodeCommit ser abandonado em 2024 e "ressuscitado em 2025"
