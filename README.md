@@ -50,3 +50,4 @@
 - [Anuncio de rate limit no docker hub](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
 - [ECR public gallery](https://gallery.ecr.aws/)
 - [Tamanhos de fargate profile](https://docs.aws.amazon.com/eks/latest/userguide/fargate-pod-configuration.html)
+- Hoje, Kubernetes é o padrão para orquestrar containers. Este artigo, de 2020, analisa diversas opcoes, incluindo Kubernetes: [A comprehensive feature comparison study of opensource container orchestration frameworks](https://arxiv.org/pdf/2002.02806)
