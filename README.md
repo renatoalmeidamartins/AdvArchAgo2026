@@ -37,3 +37,5 @@
 - Mais sobre direct connect
   - [DX + S2S VPN](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect-site-to-site-vpn.html)
   - [Recomendacoes de resiliencia no direct connect](https://aws.amazon.com/directconnect/resiliency-recommendation/)
+- [Familia snow, descontinuada desde final de 2025](https://aws.amazon.com/blogs/storage/aws-snow-device-updates/)
+- [Data transfer terminal](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
