@@ -58,3 +58,5 @@
 - [EKS Anywhere](https://anywhere.eks.amazonaws.com/docs/)
 - [10+ deploys per day at flicker - apresentado na velocity conference de 2009, pode-se dizer que aí foi lançado o movimento DevOps](https://www.youtube.com/watch?v=LdOe18KhtT4&t=12s)
 - [There's no place like production](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)
+- [Publicações DORA, entre outras, State of DevOps report](https://dora.dev/research/publications/)
