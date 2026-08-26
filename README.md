@@ -56,3 +56,4 @@
 - [EKS auto-mode](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/)
 - [Repo do eks distro](https://github.com/aws/eks-distro)
 - [EKS Anywhere](https://anywhere.eks.amazonaws.com/docs/)
+- [10+ deploys per day at flicker - apresentado na velocity conference de 2009, pode-se dizer que aí foi lançado o movimento DevOps](https://www.youtube.com/watch?v=LdOe18KhtT4&t=12s)
