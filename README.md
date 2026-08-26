@@ -43,3 +43,8 @@
 - [VMWare cloud na aws, descontinudada desde 2024](https://aws.amazon.com/vmware/vmwarecloudonaws/)
 - [Recursos disponiveis em local zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/features/)
 - [Locais com local zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/)
+- [Wavelength](https://docs.aws.amazon.com/es_es/wavelength/latest/developerguide/carrier-gateways.html#Add_CGW_create_Gateway)
+- [Transit VPC, uma alternativa de conexao nao-gerenciada, ao ines do transit gateway](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/transit-vpc-option.html)
+- [Reachability analyzer](https://docs.aws.amazon.com/vpc/latest/reachability/what-is-reachability-analyzer.html)
+- [Transit gateway network manager](https://docs.aws.amazon.com/network-manager/latest/tgwnm/nm-visualize-tgw.html)
+- 
