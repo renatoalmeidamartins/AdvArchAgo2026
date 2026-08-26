@@ -39,3 +39,5 @@
   - [Recomendacoes de resiliencia no direct connect](https://aws.amazon.com/directconnect/resiliency-recommendation/)
 - [Familia snow, descontinuada desde final de 2025](https://aws.amazon.com/blogs/storage/aws-snow-device-updates/)
 - [Data transfer terminal](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
+- [Storage gateway hardware descontinuado](https://docs.aws.amazon.com/storagegateway/latest/tgw/appliance-rack-mount.html)
+- [VMWare cloud na aws, descontinudada desde 2024](https://aws.amazon.com/vmware/vmwarecloudonaws/)
