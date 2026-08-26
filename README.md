@@ -34,3 +34,6 @@
 - [Direct connect multicloud - suporta atualmente Google e Oracle cloud](https://aws.amazon.com/blogs/networking-and-content-delivery/build-resilient-and-scalable-multicloud-connectivity-architectures-with-aws-interconnect-multicloud/)
 ## Links do dia 2 
 - [Revisao de organizacoes - getting started](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html)
+- Mais sobre direct connect
+  - [DX + S2S VPN](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect-site-to-site-vpn.html)
+  - [Recomendacoes de resiliencia no direct connect](https://aws.amazon.com/directconnect/resiliency-recommendation/)
