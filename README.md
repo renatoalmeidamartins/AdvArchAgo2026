@@ -64,3 +64,4 @@
 - [X-ray está sendo depreciado em favor do Open Telemetry](https://docs.aws.amazon.com/xray/latest/devguide/xray-gettingstarted.html)
 - [Q Developer "virou" o Kiro](https://aws.amazon.com/q/developer/)
 - [Runtimes disponiveis no CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/available-runtimes.html)
+- [Hooks no appspec do codedeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-lambda)
