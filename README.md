@@ -61,3 +61,4 @@
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)
 - [Publicações DORA, entre outras, State of DevOps report](https://dora.dev/research/publications/)
 - [The Future of AWS CodeCommit](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/), conta a história do CodeCommit ser abandonado em 2024 e "ressuscitado em 2025"
+- [X-ray está sendo depreciado em favor do Open Telemetry](https://docs.aws.amazon.com/xray/latest/devguide/xray-gettingstarted.html)
