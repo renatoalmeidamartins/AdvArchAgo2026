@@ -32,3 +32,5 @@
 - [VPNs agora suportam tuneis de 5 Gbps](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/)
 - [Accelerated site-to-sive VPN, se apoiam em Global accelerator](https://docs.aws.amazon.com/vpn/latest/s2svpn/accelerated-vpn.html)
 - [Direct connect multicloud - suporta atualmente Google e Oracle cloud](https://aws.amazon.com/blogs/networking-and-content-delivery/build-resilient-and-scalable-multicloud-connectivity-architectures-with-aws-interconnect-multicloud/)
+## Links do dia 2 
+- [Revisao de organizacoes - getting started](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html)
