@@ -63,3 +63,4 @@
 - [The Future of AWS CodeCommit](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/), conta a história do CodeCommit ser abandonado em 2024 e "ressuscitado em 2025"
 - [X-ray está sendo depreciado em favor do Open Telemetry](https://docs.aws.amazon.com/xray/latest/devguide/xray-gettingstarted.html)
 - [Q Developer "virou" o Kiro](https://aws.amazon.com/q/developer/)
+- [Runtimes disponiveis no CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/available-runtimes.html)
