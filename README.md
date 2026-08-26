@@ -47,4 +47,4 @@
 - [Transit VPC, uma alternativa de conexao nao-gerenciada, ao ines do transit gateway](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/transit-vpc-option.html)
 - [Reachability analyzer](https://docs.aws.amazon.com/vpc/latest/reachability/what-is-reachability-analyzer.html)
 - [Transit gateway network manager](https://docs.aws.amazon.com/network-manager/latest/tgwnm/nm-visualize-tgw.html)
-- 
+- [Anuncio de rate limit no docker hub](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
