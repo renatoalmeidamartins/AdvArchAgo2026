@@ -48,3 +48,5 @@
 - [Reachability analyzer](https://docs.aws.amazon.com/vpc/latest/reachability/what-is-reachability-analyzer.html)
 - [Transit gateway network manager](https://docs.aws.amazon.com/network-manager/latest/tgwnm/nm-visualize-tgw.html)
 - [Anuncio de rate limit no docker hub](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
+- [ECR public gallery](https://gallery.ecr.aws/)
+- [Tamanhos de fargate profile](https://docs.aws.amazon.com/eks/latest/userguide/fargate-pod-configuration.html)
