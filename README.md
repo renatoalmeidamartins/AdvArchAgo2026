@@ -75,3 +75,6 @@
 - [Flexibilidade na janela de rotacao automatica de chaves (de 90 dias a 7 anos)](https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/)
 - [Bucket keys para reduzir o custo de cirptografia em buckets S3](https://aws.amazon.com/blogs/storage/reduce-encryption-costs-by-using-amazon-s3-bucket-keys-on-existing-objects/)
 - [Desabilitado SSE-C em S3](https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/)
+- [TDE no Oracle suportada pelo CloudHSM](https://aws.amazon.com/blogs/security/how-to-migrate-your-ec2-oracle-transparent-data-encryption-tde-database-encryption-wallet-to-cloudhsm/)
+- [HSMs do KMS suportam FIPS 140-2 nivel 3](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-kms-hsm-fips-security-level-3/)
+- [Blog tratando do tema acima](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
