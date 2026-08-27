@@ -69,3 +69,4 @@
 - [Multi-stage build em Docker](https://docs.docker.com/build/building/multi-stage/)
 - [Taskcat, para testar stacks em varias regioes](https://aws-ia.github.io/taskcat/)
 - [Politicas disponiveis no Firewall Manager](https://docs.aws.amazon.com/waf/latest/developerguide/working-with-policies.html)
+- [Arquitetura de exemplo resiliente a DDoS](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-resiliency-example-web.html)
