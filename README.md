@@ -84,3 +84,5 @@
 - [How to choose the right AWS service for managing secrets and configurations](https://aws.amazon.com/blogs/security/how-to-choose-the-right-aws-service-for-managing-secrets-and-configurations/)
 - [Amazon S3 increases the maximum object size to 50 TB](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
 - [Operacoes suportadas no S3 Batch](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-operations.html)
+- [Medallion architecture, boa arquitetura para data lakes](https://www.databricks.com/blog/what-is-medallion-architecture)
+- [The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
