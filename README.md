@@ -79,3 +79,6 @@
 - [HSMs do KMS suportam FIPS 140-2 nivel 3](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-kms-hsm-fips-security-level-3/)
 - [Blog tratando do tema acima](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
 - [Rotacao automatica de credenciais no Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotate-secrets_managed.html)
+- [Suporte a criptografia de segredos no Kubernetes, via CSI](https://secrets-store-csi-driver.sigs.k8s.io/concepts.html#provider-for-the-secrets-store-csi-driver)
+- [CSI para secrets no Kubernetes, usando Secrets Manager e/ou parameter store](https://github.com/aws/secrets-store-csi-driver-provider-aws)
+- [How to choose the right AWS service for managing secrets and configurations](https://aws.amazon.com/blogs/security/how-to-choose-the-right-aws-service-for-managing-secrets-and-configurations/)
