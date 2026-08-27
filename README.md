@@ -82,3 +82,4 @@
 - [Suporte a criptografia de segredos no Kubernetes, via CSI](https://secrets-store-csi-driver.sigs.k8s.io/concepts.html#provider-for-the-secrets-store-csi-driver)
 - [CSI para secrets no Kubernetes, usando Secrets Manager e/ou parameter store](https://github.com/aws/secrets-store-csi-driver-provider-aws)
 - [How to choose the right AWS service for managing secrets and configurations](https://aws.amazon.com/blogs/security/how-to-choose-the-right-aws-service-for-managing-secrets-and-configurations/)
+- [Amazon S3 increases the maximum object size to 50 TB](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
