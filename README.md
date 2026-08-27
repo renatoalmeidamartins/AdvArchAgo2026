@@ -67,3 +67,4 @@
 - [Hooks no appspec do codedeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html#appspec-hooks-lambda)
 ## Links do dia 3
 - [Multi-stage build em Docker](https://docs.docker.com/build/building/multi-stage/)
+- [Taskcat, para testar stacks em varias regioes](https://aws-ia.github.io/taskcat/)
