@@ -78,3 +78,4 @@
 - [TDE no Oracle suportada pelo CloudHSM](https://aws.amazon.com/blogs/security/how-to-migrate-your-ec2-oracle-transparent-data-encryption-tde-database-encryption-wallet-to-cloudhsm/)
 - [HSMs do KMS suportam FIPS 140-2 nivel 3](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-kms-hsm-fips-security-level-3/)
 - [Blog tratando do tema acima](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
+- [Rotacao automatica de credenciais no Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotate-secrets_managed.html)
