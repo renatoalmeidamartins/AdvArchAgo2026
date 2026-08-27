@@ -86,3 +86,4 @@
 - [Operacoes suportadas no S3 Batch](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-operations.html)
 - [Medallion architecture, boa arquitetura para data lakes](https://www.databricks.com/blog/what-is-medallion-architecture)
 - [The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
+- [Federated query no athena permite consultar fontes não-s3 com SQL serverless](https://aws.amazon.com/blogs/big-data/query-any-data-source-with-amazon-athenas-new-federated-query/)
