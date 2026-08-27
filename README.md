@@ -70,3 +70,6 @@
 - [Taskcat, para testar stacks em varias regioes](https://aws-ia.github.io/taskcat/)
 - [Politicas disponiveis no Firewall Manager](https://docs.aws.amazon.com/waf/latest/developerguide/working-with-policies.html)
 - [Arquitetura de exemplo resiliente a DDoS](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-resiliency-example-web.html)
+- [Suporte a HSMs externos no KMS](https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/)
+- [Chaves multi-regiao no KMS](https://aws.amazon.com/blogs/security/encrypt-global-data-client-side-with-aws-kms-multi-region-keys/)
+- [Flexibilidade na janela de rotacao automatica de chaves (de 90 dias a 7 anos)](https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/)
