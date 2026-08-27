@@ -68,3 +68,4 @@
 ## Links do dia 3
 - [Multi-stage build em Docker](https://docs.docker.com/build/building/multi-stage/)
 - [Taskcat, para testar stacks em varias regioes](https://aws-ia.github.io/taskcat/)
+- [Politicas disponiveis no Firewall Manager](https://docs.aws.amazon.com/waf/latest/developerguide/working-with-policies.html)
