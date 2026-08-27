@@ -73,3 +73,5 @@
 - [Suporte a HSMs externos no KMS](https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/)
 - [Chaves multi-regiao no KMS](https://aws.amazon.com/blogs/security/encrypt-global-data-client-side-with-aws-kms-multi-region-keys/)
 - [Flexibilidade na janela de rotacao automatica de chaves (de 90 dias a 7 anos)](https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/)
+- [Bucket keys para reduzir o custo de cirptografia em buckets S3](https://aws.amazon.com/blogs/storage/reduce-encryption-costs-by-using-amazon-s3-bucket-keys-on-existing-objects/)
+- [Desabilitado SSE-C em S3](https://aws.amazon.com/blogs/storage/advanced-notice-amazon-s3-to-disable-the-use-of-sse-c-encryption-by-default-for-all-new-buckets-and-select-existing-buckets-in-april-2026/)
