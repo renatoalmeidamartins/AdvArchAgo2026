@@ -88,3 +88,5 @@
 - [The Hitchhiker's Guide to the Data Lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
 - [Federated query no athena permite consultar fontes não-s3 com SQL serverless](https://aws.amazon.com/blogs/big-data/query-any-data-source-with-amazon-athenas-new-federated-query/)
 - [S3 Inventory](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory.html)
+## Links do dia 4
+- [Permiss~ao baseada em tags com LF-tags no lake formation](https://docs.aws.amazon.com/lake-formation/latest/dg/granting-catalog-perms-TBAC.html)
