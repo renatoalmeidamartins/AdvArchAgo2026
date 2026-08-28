@@ -1,4 +1,8 @@
 # AdvArchAgo2026
+
+## Meus dados de contato
+- email: renatoalmeidamartins@gmail.com
+- [Perfil do linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
 ## Avaliacao do curso
 - [Qualtrics, avaliacao da AWS](https://au1.qualtrics.com/jfe/form/SV_cAAOvXJ4f0ffSLj?atpclassid=0d224e63-dfff-4d49-affa-fe8c4e8b5191&Q_Language=PT)
 - [Avaliacao da Fast Lane](https://www.metricsthatmatter.com/url/u.aspx?A51A90E4B239400811)
