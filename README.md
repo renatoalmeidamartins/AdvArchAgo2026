@@ -1,4 +1,7 @@
 # AdvArchAgo2026
+## Avaliacao do curso
+- [Qualtrics, avaliacao da AWS](https://au1.qualtrics.com/jfe/form/SV_cAAOvXJ4f0ffSLj?atpclassid=0d224e63-dfff-4d49-affa-fe8c4e8b5191&Q_Language=PT)
+- [Avaliacao da Fast Lane](https://www.metricsthatmatter.com/url/u.aspx?A51A90E4B239400811)
 - [Video institucional da Fast Lane](https://www.youtube.com/watch?v=2sfC7cmVTmA)
 
 ## Material e laboratórios
