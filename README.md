@@ -92,3 +92,10 @@
 - [Permiss~ao baseada em tags com LF-tags no lake formation](https://docs.aws.amazon.com/lake-formation/latest/dg/granting-catalog-perms-TBAC.html)
 - [AWS Transform para migracoes](https://aws.amazon.com/transform/migrations/)
 - [AWS-Managed Transformations](https://docs.aws.amazon.com/transform/latest/userguide/transform-aws-customs.html)
+- [AWS Cloud Readiness Assessment](https://cloudreadiness.amazonaws.com/#/cart)
+- [AWS Cloud Adoption Framework (AWS CAF)](https://aws.amazon.com/cloud-adoption-framework/)
+- [Lentes na well-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/userguide/lens-catalog.html)
+- [Migration Readiness Assessment - MRA](https://a2t.accelerate.amazonaws.com/), para parceiros ou empregados da AWS
+- [Migration portfolio assessment](https://mpa.accelerate.amazonaws.com/), para partners  Select, Advanced and Premier.
+- [Migration Evaluator](https://aws.amazon.com/migration-evaluator/getting-started/)
+- [Application discovery service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
