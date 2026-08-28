@@ -100,3 +100,4 @@
 - [Migration Evaluator](https://aws.amazon.com/migration-evaluator/getting-started/)
 - [Application discovery service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
 - [Transform MGN](https://docs.aws.amazon.com/mgn/latest/ug/what-is-mgn.html)
+- [Database Migration Step-by-Step Walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
