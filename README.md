@@ -104,3 +104,6 @@
 - [Application discovery service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
 - [Transform MGN](https://docs.aws.amazon.com/mgn/latest/ug/what-is-mgn.html)
 - [Database Migration Step-by-Step Walkthroughs](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
+- [Ainda em 2020, Lambda passou de 3 GB para 10 GB de RAM como o limite](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-functions-with-up-to-10-gb-of-memory-and-6-vcpus/)
+- [Building Memory-Intensive Apps with AWS Lambda Managed Instances](https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/)
+- [Build multi-step applications and AI workflows with AWS Lambda durable functions](https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/)
